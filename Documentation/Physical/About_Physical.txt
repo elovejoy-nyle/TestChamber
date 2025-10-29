@@ -1,0 +1,1 @@
+This folder is intended for documents related to the physical layout, structure, and locations, related to the Test Chamber ecosystem.

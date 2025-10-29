@@ -1,0 +1,2 @@
+This folder is the home for Sensors, wiring, and other informations about the Electrical systems controling the Test Chamber Ecosystem.
+Where Emergency breakers are, power disconnects, wiring diagrams, datasheets for Sensors, would all be in this folder.
